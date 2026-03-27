@@ -162,3 +162,7 @@ data-analyst-job-market-uk-vs-poland
 ## About This Project
 
 This project forms part of my **data analytics portfolio** and demonstrates the use of **Tableau to analyse labour market data and communicate insights through business-focused data visualisation**.
+
+## Kaggle Dataset
+This dataset is also available on Kaggle:
+[(https://www.kaggle.com/datasets/dziduszka/data-analyst-job-market-uk-vs-poland)]
