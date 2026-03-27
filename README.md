@@ -135,7 +135,7 @@ The analysis highlights several important observations:
 
 ---
 
-**## Repository Structure
+## Repository Structure
 
 
 ```
