@@ -38,6 +38,32 @@ This project compares the **UK and Polish Data Analyst job markets** to better u
 
 ---
 
+
+## Project Background
+
+This project was independently designed and built from scratch to simulate a realistic labour market analysis scenario.
+
+Rather than relying on a pre-existing public dataset, the dataset was manually created and structured based on real observations of LinkedIn job postings for Data Analyst roles in the UK and Poland.
+
+The project reflects my own research into the data analytics job market, including:
+
+- reviewing job advertisements  
+- identifying key variables (e.g. applicants, tools, experience levels)  
+- structuring the dataset to enable meaningful comparison  
+
+All data has been prepared in a simplified and structured format to support analysis and visualisation, while maintaining a realistic representation of market trends.
+
+The entire project was developed end-to-end independently, including:
+
+- defining the business problem  
+- designing and structuring the dataset  
+- performing the analysis in Tableau  
+- building a business-focused dashboard to communicate insights  
+
+The goal of this project was not only to analyse the data, but to replicate a real-world analytical workflow - from problem definition to insight delivery.
+
+---
+
 ## Dataset
 
 **Source:** LinkedIn job postings dataset
